@@ -1,2 +1,2 @@
 # Read.me
-Ce projet est une plateforme de commerce électronique moderne permettant aux utilisateurs de parcourir, rechercher et acheter des produits electroniques  en ligne. Conçu pour être intuitif et performant, le site offre une expérience utilisateur fluide.
+Le projet Toy Store est une plateforme e-commerce complète dédiée à la vente de jouets pour enfants. L’objectif est de fournir une solution intuitive, moderne et fonctionnelle pour les clients souhaitant acheter des jouets de manière simple et rapide.
