@@ -8,5 +8,7 @@ Détails produit : Une mise en page claire permettant de consulter les détails 
 Navigation globale : Intègre des icônes interactives pour la recherche, les favoris, et le compte utilisateur.
 Vous pouvez consulter l'intégralité des maquettes et leur interactivité via le lien suivant :   https://www.figma.com/design/L0UPn0hamqj91wQnDDzSdX/my_Toys?node-id=0-1&p=f&t=WmclAJXe73vTaoxa-0
 
+<img width="460" alt="image" src="https://github.com/user-attachments/assets/26799280-d121-43a9-9ad6-63b795fcf5a4" />
+<img width="459" alt="image" src="https://github.com/user-attachments/assets/94964856-17d5-4976-8b69-583f74b808ce" />
 
-![image](https://github.com/user-attachments/assets/4ba7cd9e-ef66-4855-b60a-1ff07194e614)
+
